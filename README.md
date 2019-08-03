@@ -1,3 +1,4 @@
 # helloWorld
 just a repository of coolMornSec
-I see
+lingchen
+first project in github
